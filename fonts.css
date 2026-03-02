@@ -1,0 +1,18 @@
+@font-face{
+    src: url(fonts/LavishlyYours-Regular.ttf);
+    font-family: Lavishly-Yours;
+}
+@font-face{
+    src: url(fonts/Birthstone-Regular.ttf);
+    font-family: Birthstone-Regular;
+}
+
+h1{
+    font-family: Lavishly-Yours;
+    font-size: 3em;
+}
+p{
+    font-family: Birthstone-Regular;
+    font-size: 2em;
+
+}
